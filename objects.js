@@ -26,7 +26,7 @@ let favorite_books = {
 
 
 
-// 4. Console log out Jeff's favorite book to makre sure it was changed correctly.
+// 4. Console log out Jeff's favorite book to make sure it was changed correctly.
 
 
 
